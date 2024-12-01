@@ -1410,7 +1410,7 @@ img{
     width: 100%;
     padding: 0px 0px;
     z-index: -1;
-    background: #ffffff;
+    background: #00153d;
     -webkit-box-shadow: 0 0 15px rgba(0,0,0,0.10);
     -moz-box-shadow: 0 0 15px rgba(0,0,0,0.10);
     -ms-box-shadow: 0 0 15px rgba(0,0,0,0.10);
@@ -1450,7 +1450,7 @@ img{
 	line-height:30px;
 	font-size:16px;
 	font-weight:600;
-	color:#222222;
+	color:#fff;
 	text-transform:capitalize;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
